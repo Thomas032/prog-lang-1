@@ -1,0 +1,77 @@
+# Java class files
+*.class
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+
+# IDE specific files
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# NetBeans
+nbproject/
+build/
+dist/
+
+# VS Code
+.vscode/
+
+# Operating System files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+
+# Archive files
+*.zip
+*.tar.gz
+*.rar
+*.7z
+*.tar
+*.tgz
+
+# Node.js dependencies
+node_modules/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Composer dependencies
+/vendor/
+
+# Environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Other general files
+*.orig
+*.lock
+*.pid
+*.seed
+
+# Coverage reports
+coverage/
+*.lcov
+
+# Build directories
+build/
+dist/
+out/
+target/
