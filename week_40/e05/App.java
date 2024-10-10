@@ -8,13 +8,13 @@ public class App {
             System.out.println("Enter a name: ");
             String name = scanner.nextLine().strip();
     
-            if(name.equals("Quit")){
+            if(name.equals("quit")){
                 break;
             }
 
             String surname = scanner.nextLine().strip();
             
-            if(surname.equals("Quit")){
+            if(surname.equals("quit")){
                 break;
             }
         }
